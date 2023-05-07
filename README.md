@@ -11,7 +11,7 @@ Os exemplos e tutoriais deste projeto cobrem uma ampla variedade de tópicos, de
 ## Como usar
 Para utilizar este projeto, basta clonar este repositório e navegar pelas pastas para acessar os exemplos e tutoriais de seu interesse. Cada pasta contém um arquivo README que explica o objetivo e o conteúdo dos arquivos presentes na pasta.
 
-git clone https://github.com/seu-usuario/data-science-python.git cd data-science-python
+git clone https://github.com/michelprosite/data-science-python.git cd data-science-python
 
 Você também pode executar os exemplos e tutoriais diretamente em seu ambiente de desenvolvimento Python, seguindo as instruções presentes nos arquivos README de cada pasta.
 
